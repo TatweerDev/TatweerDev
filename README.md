@@ -1,15 +1,15 @@
-# Привет! 👋 Я Александр Чумаслов
 
-- 🌐 Фронтенд-разработчик с опытом работы с Vue.js, Angular, Web3 и другими современными технологиями.
-- 🚀 Изучаю Web3 и активно участвую в проектах QA-автоматизации.
-- 🧩 Люблю работать над сложными задачами и улучшать пользовательский опыт.
--  ❗ Это не единственный мой профиль на GitHub. Как можно увидеть по активности он почти не используется в данное время и на нем хранятся в основном мои старые проекты.
-## Ниже приведен список моих других Git профилей, где хранятся мои другие более поздние проекты:
+# Hello! 👋 I am Alexander Chumaslov
+
+- 🌐 A frontend developer with experience in Vue.js, Angular, Web3, and other modern technologies.
+- 🚀 Currently exploring Web3 and actively participating in QA automation projects.
+- 🧩 Passionate about tackling complex challenges and improving user experiences.
+- ❗ This is not my only GitHub profile. As you can see from the activity, it is currently almost unused and mainly hosts my older projects.
+
+## Below is a list of my other Git profiles where my more recent projects are stored:
 - [Web3 projects](https://github.com/AlexanderChumaslov)
 - [NDA projects](https://github.com/AlexChumaslov)
 
-
-## Связаться со мной
-- [LinkedIn](https://www.linkedin.com/in/ваш-профиль](https://www.linkedin.com/in/alexander-chumaslov-9563b41b2/)
-- [Email](alexanderchumaslov@gmail.com)
-
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/alexander-chumaslov-9563b41b2/)
+- Email: alexanderchumaslov@gmail.com
